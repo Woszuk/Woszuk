@@ -50,10 +50,14 @@
 
 ---
 
+<!---
 ## 🚀 Featured Projects  
 - 🎨 **[Awesome Portfolio Website](https://github.com/woszuk/portfolio)** – A modern and responsive portfolio site built with Next.js (under construction).  
 
 ---
+-->
+
+
 
 ## 🎯 Currently Learning  
 - Dart  
